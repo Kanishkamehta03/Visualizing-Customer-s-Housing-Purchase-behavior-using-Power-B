@@ -1,0 +1,2 @@
+# Visualizing-Customer-s-Housing-Purchase-behavior-using-Power-B
+Visualized customer housing purchase behavior, allowing users to drill down into trends by annual income, purchase frequency, loyalty score, region, and age • Generated strategic recommendations from visualized trends, identifying high-demand areas and purchase patterns that supported a 15% improvement in targeted marketing strategies
